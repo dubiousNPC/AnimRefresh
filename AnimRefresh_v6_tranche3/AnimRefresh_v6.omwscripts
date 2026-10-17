@@ -1,0 +1,2 @@
+# AnimRefresh v6 (tranches 1-3). Load AFTER anything shipping v4/v5.
+PLAYER: scripts/AnimRefresh/AnimRefresh_v6.lua

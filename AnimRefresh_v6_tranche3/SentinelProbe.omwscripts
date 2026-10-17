@@ -1,0 +1,2 @@
+# Item 6 experiment. A diagnostic: enable, play, read the log, disable.
+PLAYER: scripts/AnimRefresh/SentinelProbe.lua
